@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "visioniechor",
+    "webapp"
+]
